@@ -31,11 +31,8 @@
 
 ## 📸 Screenshots
 
-> Replace below with your app screenshots after deployment
-
 <p float="left">
-  <img src="screenshots/search.png" width="300"/>
-  <img src="screenshots/result.png" width="300"/>
+  <img src="Screenshot%202025-07-01%20145259.png" width="300"/>
 </p>
 
 ---
